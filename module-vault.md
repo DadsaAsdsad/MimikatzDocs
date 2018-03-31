@@ -1,1 +1,0 @@
-> Commands: [list](#list), [cred](#cred)

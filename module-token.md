@@ -1,1 +1,0 @@
-> Commands: [whoami](#whoami), [list](#list), [elevate](#elevate), [revert](#revert)

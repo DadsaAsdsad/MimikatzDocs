@@ -1,1 +1,0 @@
-> Commands: [user](#user), [localgroup](#localgroup), [group](#group)

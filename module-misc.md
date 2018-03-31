@@ -1,1 +1,0 @@
-> Commands: [cmd](#cmd), [regedit](#regedit), [taskmgr](#taskmgr), [ncroutemon](#ncroutemon), [detours](#detours), [wifi](#wifi), [addsid](#addsid), [memssp](#memssp), [skeleton](#skeleton)

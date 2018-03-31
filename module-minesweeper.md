@@ -1,1 +1,0 @@
-> Commands: [infos](#infos)

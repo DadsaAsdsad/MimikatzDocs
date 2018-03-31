@@ -1,1 +1,0 @@
-> Commands: [start](#start), [remove](#remove), [stop](#stop), [suspend](#suspend), [resume](#resume), [preshutdown](#preshutdown), [shutdown](#shutdown), [list](#list)
